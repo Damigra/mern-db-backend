@@ -1,0 +1,6 @@
+{
+    "serverPort": 5002,
+    "dbUrl": "mongodb://damigra:Amor89919040@granite-shard-00-00.qrgua.mongodb.net:27017,granite-shard-00-01.qrgua.mongodb.net:27017,granite-shard-00-02.qrgua.mongodb.net:27017/MERN_DB?ssl=true&replicaSet=atlas-dzfsmh-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "secretKey": "Mern",
+    "filePath": "C:\\Users\\ffman\\Desktop\\WORK\\MERN_DB\\mern-db\\backend\\files"
+}
